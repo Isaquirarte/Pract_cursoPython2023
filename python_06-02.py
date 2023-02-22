@@ -7,8 +7,7 @@ La generación silenciosa. Nacidos entre 1920 y 1939.
 Los baby boomers. Nacidos entre 1940 y 1959.
 Generación X. Nacidos entre 1960 y 1979.
 Generación Y o millennials. Nacidos entre 1980 y 1989.
-Generación Z. Nacidos entre 1990 en adelante.
-Extra: Utilizar libreria de datetime para obtener mes y año."""
+Generación Z. Nacidos entre 1990 en adelante."""
 
 año_nacimiento = input("Introduce tu año de Nacimiento")
 año_nacimiento = int(año_nacimiento)
