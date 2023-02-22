@@ -16,4 +16,5 @@ if (edad >14 and estatura >=1.62):
 elif (edad <=14 and estatura >=1.62):
     print("No puede subirse por que es menor de 14 años de edad")
 elif (edad > 14 and estatura <=1.62):
+
     print("No puede subir a la montana rusa, ya que mide menos de 1.62 ")
