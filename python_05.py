@@ -1,3 +1,4 @@
+#practica para trabajar las funciones
 num_a = input("Introduce un numero a")
 num_b = input("Introduce otro numero b")
 num_a = int(num_a)
